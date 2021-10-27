@@ -12,12 +12,29 @@ body {
 .post_title {
     font-size: 28px;
     font-style: italic;
+    margin: 15px;
+    margin-left: 0px;
+}
+
+.photo_geek {
+    border-radius: 50%;
 }
 
 .post {
     background:rgb(57, 113, 218) ;
-    background-image: url("pitagoras.jpg");
+    background-image: ;
+    background-position: ;
     padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
     border: 3px solid rgb(3, 3, 3);
+    border-top: 3px solid;
+    border-right: 3px solid ;
+    border-left: 3px solid;
+    border-bottom: 3px solid;
+    border-radius: 10px;
+
+
     margin: 50px;
 }
